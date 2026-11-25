@@ -8,7 +8,7 @@ AI-powered attack tools can now find and break into exposed systems on their own
 - Six practical priorities for defending your organisation
 - Five questions every CEO should ask their security team
 
-📄 **[Read the full article (PDF)](Defending-the-Enterprise-AI-Attacks.pdf)**
+📄 **[Read the full article (PDF)](Defending%20the%20Enterprise%20in%20the%20Age%20of%20Autonomous%20AI%20Attacks.pdf)**
 
 ---
 **Author:** Gilly Gathogo, CISSP · Cybersecurity | Enterprise Security | AI-Enabled Cyber Defence
